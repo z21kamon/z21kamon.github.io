@@ -86,7 +86,7 @@ You can use "Krasnoyarsk Transport" mobile app to buy a ticket for public transp
 #### Buying a ticket
 
 1. Locate this sticker with a QR code inside a train car. The stickers are usually located near entrances.
-<img src="sticker.jpg " width="200">
+<img src="sticker.jpg " align="top" width="200">
 
 2. Open "Krasnoyarsk Transport" app.
 
