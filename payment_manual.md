@@ -9,7 +9,13 @@ This manual provides detailed instructions on how to buy a ticket for Krasnoyars
 You can buy a one-way or two-way ticket at any time at the station. You can pay by cash or bank card. After paying, the cashier will issue a paper ticket and a receipt. If you pay with cash, make sure you have small notes or coins, as the cashier may not be able to give change for large denominations (e.g. 1000 rubles).
 
 ### Electronic Travel Card
-<img src="https://mu-kgt.ru/images/sovot/image001.jpg " width="300">
+
+<p float="left">
+  <img src="https://mu-kgt.ru/images/sovot/image001.jpg" width="250" />
+  <img src="kopilka.png " width="250" /> 
+</p>
+
+
 
 The Electronic Travel Card is a joint project of KrasInform CJSC and the Kopilka system, which also allows to use the regular Kopilka card to pay in urban passenger transport as an analogue of a bank card.
 
