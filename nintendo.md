@@ -15,7 +15,7 @@ Nintendo DS is a popular handheld gaming console known for its dual-screen desig
 **Step 1: Charging**
 
 - Before playing, make sure your console is fully charged to avoid any inconveniences. Plug the DS charger into the charging port located on the back of the console.
-- Plug the charger into a power outlet. A small light will indicate that the device is charging. Once the light turns off, the DS is fully charged.
+- Plug the charger into a power outlet. An LED light will indicate that the device is charging. Once the light turns off, the DS is fully charged.
 
 **Step 2: Inserting a Game Cartridge**
 
@@ -28,9 +28,9 @@ Nintendo DS is a popular handheld gaming console known for its dual-screen desig
 - Open the Nintendo DS by lifting the top screen until it is fully extended.
 - Press and hold the power button until the screen lights up, indicating that the device is on.
 
-**Step 4: Game Start!**
+**Step 4: Starting the game**
 
-- Once powered on, the DS will display the main menu on the bottom screen. You can use either the control pad or the stylus to navigate.
+- When powered on, the DS will display the main menu on the bottom screen. You can use either the control pad or the stylus to navigate.
 - A screen will display the title of the inserted game cartridge.
 - Tap the game title with your stylus or press the "A" button to start the game.
 
